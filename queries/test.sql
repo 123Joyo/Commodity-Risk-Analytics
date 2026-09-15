@@ -1,0 +1,3 @@
+SELECT date, WTI, BRENT
+FROM market_prices
+WHERE date BETWEEN '2025-01-01' AND '2026-01-01';

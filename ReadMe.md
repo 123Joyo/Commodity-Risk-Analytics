@@ -1,0 +1,1 @@
+possible jumps whenever contract rolls : limitation
